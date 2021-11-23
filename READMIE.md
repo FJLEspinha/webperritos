@@ -24,9 +24,23 @@ amante de los animales. Fuck ~~maltrato~~ fuck sapos.
 
 
 ## El perro mas bonito del mundo
+
+
 ![alt][perro]
 
 
-[perro]:pastorAleman.jpb
+[perro]:labrador.jpg
+
+## Tabla de peso en función de la edad y tipo de raza
+
+
+| edad | pequeño | mediano | grande |
+|   --:| :-----:  | :------:  | :------: |
+| 5    | 36      |   37     | 40     |
+| 10   |  56     |   60     |   66   |
+| 15   |   76    |    86    |   93    |
+
+
+
 
 
