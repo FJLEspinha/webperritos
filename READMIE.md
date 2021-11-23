@@ -41,7 +41,14 @@ amante de los animales. Fuck ~~maltrato~~ fuck sapos.
 | 15   |   76    |    86    |   93    |
 
 
+## Calendario de vacunación de tu perro
 
+
+- [X] de 6 a 8 semanas
+- [ ] de 8 a 10 semanas
+- [ ] de 12 a 14 semanas
+- [ ] de 14 a 16 semanas
+- [X] de 14 a 1
 
 
 
