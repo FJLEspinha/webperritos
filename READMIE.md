@@ -27,6 +27,6 @@ amante de los animales. Fuck ~~maltrato~~ fuck sapos.
 ![alt][perro]
 
 
-[perro]:labrador.jpb
+[perro]:pastorAleman.jpb
 
 
